@@ -3,9 +3,9 @@
 
 - 👩‍💻 All of my projects are available at [https://yuni-portfolio.design/](https://yuni-portfolio.design/)
 
-- 📫 How to reach me **amy123chou@gmail.com**
+- 📫 How to reach me **amy123chou@gmail.com** 
 
-- 🍇 My resume  https://www.cakeresume.com/me/amy123chou
+- 🍇 My resume  https://www.cakeresume.com/yuni0107
 
 
 <h3 align="left">Languages and Tools:</h3>
