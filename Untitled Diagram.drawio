@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T15:30:10.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fLxRGQliN-D8C1UCqNQx" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T10:38:32.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-dkOTbY8alQV2yVGkIq6" version="15.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1059" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1391" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -144,7 +144,7 @@
         <mxCell id="I9e6eZebv1oJj84SPyWx-21" value="是否登入？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pjsu_nlTCOArPE32vbx--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#97D077;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I9e6eZebv1oJj84SPyWx-23" target="Pjsu_nlTCOArPE32vbx--1">
+        <mxCell id="Pjsu_nlTCOArPE32vbx--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#97D077;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I9e6eZebv1oJj84SPyWx-23" target="Pjsu_nlTCOArPE32vbx--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I9e6eZebv1oJj84SPyWx-23" value="Call 扣款查詢API" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -153,34 +153,134 @@
         <mxCell id="I9e6eZebv1oJj84SPyWx-25" value="Show 請登入 頁面" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9e6eZebv1oJj84SPyWx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I9e6eZebv1oJj84SPyWx-29" target="I9e6eZebv1oJj84SPyWx-30" edge="1">
+        <mxCell id="I9e6eZebv1oJj84SPyWx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I9e6eZebv1oJj84SPyWx-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pjsu_nlTCOArPE32vbx--4" value="&lt;font color=&quot;#000000&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#97D077;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pjsu_nlTCOArPE32vbx--1" target="Pjsu_nlTCOArPE32vbx--3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I9e6eZebv1oJj84SPyWx-29" value="按下登出按鈕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="87" y="840" width="183" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="I9e6eZebv1oJj84SPyWx-30" value="&lt;font color=&quot;#ff8000&quot;&gt;清掉兩個Token嗎？&lt;br&gt;是前端自己清掉？&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="314" y="800" width="186" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Pjsu_nlTCOArPE32vbx--4" value="&lt;font color=&quot;#000000&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#97D077;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pjsu_nlTCOArPE32vbx--1" target="Pjsu_nlTCOArPE32vbx--3">
+        <mxCell id="Pjsu_nlTCOArPE32vbx--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pjsu_nlTCOArPE32vbx--1" target="Pjsu_nlTCOArPE32vbx--8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pjsu_nlTCOArPE32vbx--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pjsu_nlTCOArPE32vbx--1" target="Pjsu_nlTCOArPE32vbx--8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pjsu_nlTCOArPE32vbx--10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Pjsu_nlTCOArPE32vbx--9">
+        <mxCell id="Pjsu_nlTCOArPE32vbx--10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="Pjsu_nlTCOArPE32vbx--9" vertex="1" connectable="0">
           <mxGeometry x="-0.0303" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pjsu_nlTCOArPE32vbx--1" value="Token過期了嗎？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Pjsu_nlTCOArPE32vbx--1" value="Token過期了嗎？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="580" width="125" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Pjsu_nlTCOArPE32vbx--3" value="成功拿到資料顯示" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Pjsu_nlTCOArPE32vbx--3" value="成功拿到資料顯示" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="572.5" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pjsu_nlTCOArPE32vbx--8" value="跳出 &lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;過期請重新登入Modal&lt;/font&gt;&lt;br&gt;＆&lt;br&gt;Show 請登入頁面" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Pjsu_nlTCOArPE32vbx--8" value="跳出 &lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;過期請重新登入Modal&lt;/font&gt;&lt;br&gt;＆&lt;br&gt;Show 請登入頁面" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="777.5" y="590" width="162.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-0" target="TIUfZLwuF2g1yrN_wVmZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-0" value="一進到網頁時" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1169" width="180" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.99644782412247" y="1352.7586206896553" as="sourcePoint" />
+            <mxPoint x="380.01" y="1353" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="1353" />
+              <mxPoint x="340" y="1353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-55" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TIUfZLwuF2g1yrN_wVmZ-4">
+          <mxGeometry x="-0.0071" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-1" target="TIUfZLwuF2g1yrN_wVmZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-17" value="無" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TIUfZLwuF2g1yrN_wVmZ-16">
+          <mxGeometry x="-0.2308" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-1" value="有沒有 accessToken" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1295.5" width="180" height="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-3" value="製造假登入狀態" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380.01" y="1322.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-19" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-15" target="TIUfZLwuF2g1yrN_wVmZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-15" target="TIUfZLwuF2g1yrN_wVmZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-24" value="無" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TIUfZLwuF2g1yrN_wVmZ-21">
+          <mxGeometry x="-0.2252" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-15" value="有沒有A4Key" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1440" width="180" height="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-18" value="打LoginApi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="1467.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-20" value="什麼事都不做" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="1610" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-27" target="TIUfZLwuF2g1yrN_wVmZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-27" value="&lt;font color=&quot;#ff8000&quot;&gt;在已登入狀態&lt;/font&gt;&lt;br&gt;進到扣款查詢頁 &lt;br&gt;Call 扣款查詢API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="1164.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-28" target="TIUfZLwuF2g1yrN_wVmZ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-33" value="access過期" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TIUfZLwuF2g1yrN_wVmZ-32">
+          <mxGeometry x="0.0733" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-43" value="&lt;font color=&quot;#000000&quot;&gt;access沒過期&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#EA6B66;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-28" target="TIUfZLwuF2g1yrN_wVmZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-28" value="後端檢查access token" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="1310" width="180" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="1372.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-31" value="發現過期" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="1342.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-36" value="執行Logout&lt;br&gt;頁面顯示登出&lt;br&gt;&lt;font color=&quot;#ea6b66&quot;&gt;顯示逾時&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="1342.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-42" value="繼續使用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="1494.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF8000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIUfZLwuF2g1yrN_wVmZ-46" target="TIUfZLwuF2g1yrN_wVmZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-46" value="在其他頁面時" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1720" width="180" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-47" value="繼續執行假登入狀態" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1715.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-49" value="&lt;font color=&quot;#a680b8&quot;&gt;有一個 Token 應該要是30分鐘？&lt;br&gt;但這樣後台如果他持續編輯30分鐘，沒call API的時候怎麼辦&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="83.5" y="1815" width="326.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TIUfZLwuF2g1yrN_wVmZ-50" value="&lt;font color=&quot;#a680b8&quot;&gt;如果Refresh Token 超過30分鐘，&lt;br&gt;每一次叫access過期的時候，&lt;br&gt;會去判斷&lt;/font&gt;&lt;span style=&quot;color: rgb(166 , 128 , 184)&quot;&gt;Refresh Token 就重新核發&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(166 , 128 , 184)&quot;&gt;access&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#a680b8&quot;&gt;這樣的話就沒有30分鐘的意義了&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="83.5" y="1920" width="326.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
