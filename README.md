@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yuni 👋 👩‍💻</h1>
 <h3 align="center">Front-End developer</h3>
 
-- 👩‍💻 All of my projects are available at [https://yuni-portfolio.design/](https://yuni-portfolio.design/) & Latest Update: 2022.2.27
+- 👩‍💻 All of my projects are available at [https://yuni-portfolio.design/](https://yuni-portfolio.design/) - Latest Update: 2022.2.27
 
 - 📫 How to reach me **amy123chou@gmail.com** 
 
