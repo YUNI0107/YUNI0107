@@ -3,8 +3,9 @@
 - 🧸 **3D WebXR**\
 Expert in **PlayCanvas, Three.js, R3F**, optimizing rendering and shaders.
 - 💻 **Frontend Development**\
-Passionate about **React & TypeScript**, currently diving deeper into **Next.js**.
+Passionate about **React & TypeScript**, good at making cool animation effects!
 - How to reach me&nbsp;amy123chou@gmail.com \
+\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://tw.linkedin.com/in/%E5%91%A8%E8%8A%B8%E5%8D%89-yun-huei-826b971a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amy123chou@gmail.com) 
 
 ---
