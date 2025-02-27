@@ -1,7 +1,7 @@
 # &nbsp; Hi, I'm Yuni <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="28" height="28" />
 
 - 🧸 **3D WebXR**\
-Expert in **PlayCanvas, Three.js, R3F**, optimizing rendering and shaders.
+Familiar with **PlayCanvas, Three.js, R3F**, optimizing rendering and shaders.
 - 💻 **Frontend Development**\
 Passionate about **React & TypeScript**, good at making cool animation effects!
 - How to reach me&nbsp;amy123chou@gmail.com \
